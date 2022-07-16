@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sandeeptottadi/static/css/main.5c103126.css",
+    "main.js": "/sandeeptottadi/static/js/main.6bcd16e8.js",
+    "static/js/787.d02bbc1a.chunk.js": "/sandeeptottadi/static/js/787.d02bbc1a.chunk.js",
+    "static/media/my_profile.png": "/sandeeptottadi/static/media/my_profile.9cbfe49a449377a3dbbd.png",
+    "static/media/projects.png": "/sandeeptottadi/static/media/projects.9fca275bc0eae15cdd1c.png",
+    "static/media/resume.jpg": "/sandeeptottadi/static/media/resume.f61f071383eddfe8fe6d.jpg",
+    "static/media/linkedin.png": "/sandeeptottadi/static/media/linkedin.bf34d6877011977497d6.png",
+    "static/media/skills.png": "/sandeeptottadi/static/media/skills.b61803f803cac73b6f16.png",
+    "static/media/instagram.png": "/sandeeptottadi/static/media/instagram.9b09b5c0d56f135733f2.png",
+    "static/media/theme.Default": "/sandeeptottadi/static/media/theme.220dfad4d4f841f40db0.Default",
+    "static/media/audio.png": "/sandeeptottadi/static/media/audio.6b9dd21404ddf0ecef0a.png",
+    "index.html": "/sandeeptottadi/index.html",
+    "main.5c103126.css.map": "/sandeeptottadi/static/css/main.5c103126.css.map",
+    "main.6bcd16e8.js.map": "/sandeeptottadi/static/js/main.6bcd16e8.js.map",
+    "787.d02bbc1a.chunk.js.map": "/sandeeptottadi/static/js/787.d02bbc1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c103126.css",
+    "static/js/main.6bcd16e8.js"
+  ]
+}
